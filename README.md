@@ -1,1 +1,1 @@
-# conception-logicielle-td2-pattern-strategy-corrige
+# conception-logicielle-td2-motif-strategie-corrige
